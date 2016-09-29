@@ -1,4 +1,6 @@
 ####  Installing pbtranscript-TOFU
+Brian Uapinyoying
+Updated 3/18/16
 ---
 [Github page](https://github.com/PacificBiosciences/cDNA_primer)
 
