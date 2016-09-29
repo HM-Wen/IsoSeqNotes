@@ -1,4 +1,4 @@
-##  Installing pbtranscript-TOFU
+##  Installing pbtranscript-ToFU
 ---
 
 Brian Uapinyoying, updated 3/18/16
