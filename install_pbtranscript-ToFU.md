@@ -1,7 +1,8 @@
 ####  Installing pbtranscript-TOFU
-Brian Uapinyoying
-Updated 3/18/16
 ---
+
+Brian Uapinyoying, updated 3/18/16
+
 [Github page](https://github.com/PacificBiosciences/cDNA_primer)
 
 It's best to use the install script outlined in the [instructions](https://github.com/PacificBiosciences/cDNA_primer/wiki/Setting-up-virtualenv-and-installing-pbtranscript-tofu). If you try to use newer versions of the tools outlined in the instructions such as virtualenv, setuptools or bxpython it will likely not work and you won't know why.  I learned the hard way.
